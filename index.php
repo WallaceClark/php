@@ -1,9 +1,5 @@
 <?php
 
-echo "Meu primeiro código <strong>PHP</strong>!";
+echo "Olá mundo<strong>PHP</strong>!";
 
 ?>
-
-<div>
-    <h1>Teste DIV HTML</h1>
-</div>
